@@ -46,3 +46,5 @@ Returns std. dev.:  4 %
 Max. return: -1 %
 Min. return: -12 %
 ```
+
+![Alt text](spy_200ma.png)
